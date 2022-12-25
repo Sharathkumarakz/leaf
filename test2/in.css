@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.hi{
+  width: 100%;
+  height: 500px;
+  background-color: aquamarine;
+}
+.scooty img{
+  
+  padding-top:120px ;
+  width: 350px;
+  height: 400px;
+  margin-left: 70px;
+ 
+}
+.scooty{
+  border-radius:30px;
+}
